@@ -1,0 +1,10 @@
+2023-01-18 16:59:27 - [31merror[39m : [31mnão foi possivel conectar ! [39m
+2023-01-18 16:59:27 - [31merror[39m : [31mquerySrv ENOTFOUND _mongodb._tcp.cluster0.kafqup.mongodb.net[39m
+2023-01-18 17:00:04 - [31merror[39m : [31mnão foi possivel conectar ! [39m
+2023-01-18 23:08:42 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:09:55 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:10:12 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:11:54 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:12:39 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:12:55 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:10:13 - [31merror[39m : [31mErro:document must have an _id before saving[39m

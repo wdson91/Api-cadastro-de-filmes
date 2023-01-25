@@ -1,0 +1,496 @@
+2023-01-18 16:56:35 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 16:58:00 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 16:59:03 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 16:59:03 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 16:59:27 - [31merror[39m : [31mnão foi possivel conectar ! [39m
+2023-01-18 16:59:27 - [31merror[39m : [31mquerySrv ENOTFOUND _mongodb._tcp.cluster0.kafqup.mongodb.net[39m
+2023-01-18 16:59:27 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 16:59:31 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 16:59:31 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 16:59:56 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 16:59:56 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 17:00:04 - [31merror[39m : [31mnão foi possivel conectar ! [39m
+2023-01-18 17:00:09 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 17:00:09 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 21:41:48 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 21:41:48 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 21:43:03 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 21:43:03 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 21:44:20 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 21:44:20 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 21:44:33 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 21:44:33 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 21:44:36 - [35mhttp[39m : [35mGET /api/test 200 11 - 2.659 ms[39m
+[35m[39m
+2023-01-18 21:49:32 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 21:49:32 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 22:00:54 - [35mhttp[39m : [35mGET /api/test 200 11 - 2.940 ms[39m
+[35m[39m
+2023-01-18 22:01:00 - [35mhttp[39m : [35mGET /api/test 200 11 - 0.707 ms[39m
+[35m[39m
+2023-01-18 22:01:01 - [35mhttp[39m : [35mGET /api/test 200 11 - 0.444 ms[39m
+[35m[39m
+2023-01-18 22:21:05 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 22:21:05 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 22:22:56 - [35mhttp[39m : [35mPOST /api/movie 200 9 - 2.917 ms[39m
+[35m[39m
+2023-01-18 22:25:50 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 22:25:50 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 22:26:58 - [35mhttp[39m : [35mPOST /api/movie 200 156 - 101.936 ms[39m
+[35m[39m
+2023-01-18 22:32:56 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 22:32:56 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 22:33:00 - [35mhttp[39m : [35mPOST /api/movie 200 156 - 91.219 ms[39m
+[35m[39m
+2023-01-18 23:07:27 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:07:27 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:07:44 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:07:44 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:08:22 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded191951 - - - - ms[39m
+[35m[39m
+2023-01-18 23:08:42 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:08:46 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-18 23:09:50 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:09:50 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:09:55 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:09:57 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-18 23:10:02 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded191951 200 156 - 67.103 ms[39m
+[35m[39m
+2023-01-18 23:10:12 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:10:14 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-18 23:11:47 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:11:47 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:11:52 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:11:52 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:11:54 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:12:12 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-18 23:12:32 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:12:32 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:12:34 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:12:34 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:12:39 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:12:40 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-18 23:12:55 - [31merror[39m : [31mErro:Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:12:57 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:13:38 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:13:38 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:13:42 - [32minfo[39m : [32mErro:Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:13:45 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:14:35 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:14:35 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:14:38 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:14:43 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:15:08 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:15:09 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:15:09 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:15:11 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:15:12 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:15:15 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:15:21 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:15:21 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:15:22 - [32minfo[39m : [32mErro no sistema: Converting circular structure to JSON[39m
+[32m    --> starting at object with constructor 'MongoClient'[39m
+[32m    |     property 's' -> object with constructor 'Object'[39m
+[32m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[32m    --- property 'client' closes the circle[39m
+2023-01-18 23:15:28 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:15:33 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:15:33 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:16:14 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:16:14 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:16:14 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:16:17 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:16:53 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:16:54 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:16:54 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:16:56 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:16:58 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:17:04 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:17:26 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:17:26 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:17:46 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:17:46 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:17:49 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:17:51 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:23:26 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:23:26 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:24:28 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:24:28 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:24:34 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:24:38 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:24:50 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:24:50 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:24:55 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:24:55 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:24:55 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:24:58 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:25:01 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:25:04 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:25:51 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:25:51 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:28:45 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:28:45 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:28:52 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:28:52 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:29:12 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:29:12 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:29:15 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "{ id: '63c89c62dd5' }" (type Object) at path "_id" for model "Movie"[39m
+2023-01-18 23:29:20 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:33:30 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:33:30 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:33:43 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value ""63c89c62dd5"" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:33:46 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:33:55 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:33:55 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:33:57 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value ""63c89c62dd5"" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:34:00 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:34:32 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:34:32 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:34:35 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value ""63c89c62dd5"" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:34:37 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:34:48 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:34:48 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:34:54 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:34:54 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:34:58 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:35:09 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:35:17 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:35:17 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:35:25 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:35:48 - [35mhttp[39m : [35mGET /api/test 200 11 - 2.758 ms[39m
+[35m[39m
+2023-01-18 23:36:09 - [35mhttp[39m : [35mPOST /api/movie 422 155 - 16.938 ms[39m
+[35m[39m
+2023-01-18 23:36:16 - [35mhttp[39m : [35mGET /api/movie/%2263c89c62dd5%22 - - - - ms[39m
+[35m[39m
+2023-01-18 23:37:14 - [35mhttp[39m : [35mGET /doc/ 404 143 - 2.248 ms[39m
+[35m[39m
+2023-01-18 23:37:15 - [35mhttp[39m : [35mGET /favicon.ico 404 150 - 0.575 ms[39m
+[35m[39m
+2023-01-18 23:37:36 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:38:04 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:38:04 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:38:28 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:38:28 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:38:31 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:38:34 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:38:51 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:38:51 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:38:55 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd5" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:38:58 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:39:08 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:39:08 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:39:16 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:39:32 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:39:32 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:39:40 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd5 - - - - ms[39m
+[35m[39m
+2023-01-18 23:42:02 - [35mhttp[39m : [35mGET /api/movie/6 - - - - ms[39m
+[35m[39m
+2023-01-18 23:42:13 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:42:13 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:42:15 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:42:15 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:42:24 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:42:24 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:42:30 - [35mhttp[39m : [35mGET /api/movie/6 - - - - ms[39m
+[35m[39m
+2023-01-18 23:42:47 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:42:47 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:42:51 - [35mhttp[39m : [35mGET /api/movie/6 - - - - ms[39m
+[35m[39m
+2023-01-18 23:43:12 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:43:12 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:43:15 - [35mhttp[39m : [35mGET /api/movie/6 200 4 - 3.136 ms[39m
+[35m[39m
+2023-01-18 23:43:24 - [35mhttp[39m : [35mGET /api/movie/6 404 4 - 2.934 ms[39m
+[35m[39m
+2023-01-18 23:43:24 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:43:24 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:45:05 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:45:05 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:45:36 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:45:36 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:45:44 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:45:44 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:45:50 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:45:50 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:45:56 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "6" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:46:00 - [35mhttp[39m : [35mGET /api/movie/6 - - - - ms[39m
+[35m[39m
+2023-01-18 23:46:05 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "a" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:46:08 - [35mhttp[39m : [35mGET /api/movie/a - - - - ms[39m
+[35m[39m
+2023-01-18 23:46:44 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded191951 200 156 - 68.999 ms[39m
+[35m[39m
+2023-01-18 23:47:29 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:47:29 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:48:10 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:48:10 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:48:22 - [35mhttp[39m : [35mPOST /api/movie 422 155 - 19.887 ms[39m
+[35m[39m
+2023-01-18 23:48:41 - [35mhttp[39m : [35mGET /api/movie 200 315 - 90.025 ms[39m
+[35m[39m
+2023-01-18 23:50:31 - [32minfo[39m : [32mSucesso!![39m
+2023-01-18 23:50:31 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-18 23:50:39 - [35mhttp[39m : [35mDELETE /api/movie/63c89c62dd53a3aded191951 201 37 - 138.456 ms[39m
+[35m[39m
+2023-01-18 23:50:41 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-18 23:50:45 - [35mhttp[39m : [35mDELETE /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 21:54:28 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 21:54:28 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 21:55:06 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 21:55:09 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 21:56:05 - [35mhttp[39m : [35mGET /movie/63c89c62dd53a3aded19195 404 168 - 1.949 ms[39m
+[35m[39m
+2023-01-19 21:56:14 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 21:56:17 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 21:58:10 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 21:58:10 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:00:23 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:00:23 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:02:03 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:02:03 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:02:28 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:02:28 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:02:29 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:02:30 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:02:59 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:02:59 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:02:59 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:03:01 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:03:03 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:03:04 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:03:47 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:03:47 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:06:07 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:06:07 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:06:08 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:06:10 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:06:20 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:06:20 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:06:21 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:06:23 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:07:29 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:07:29 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:07:51 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:07:51 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:08:01 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:08:03 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:08:59 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:08:59 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:09:06 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:09:14 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:09:59 - [35mhttp[39m : [35mPOST /api/movie 422 56 - 20.967 ms[39m
+[35m[39m
+2023-01-19 22:10:13 - [31merror[39m : [31mErro:document must have an _id before saving[39m
+2023-01-19 22:10:23 - [35mhttp[39m : [35mPOST /api/movie - - - - ms[39m
+[35m[39m
+2023-01-19 22:11:24 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:11:33 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:11:33 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:11:35 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:11:36 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:12:11 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:12:11 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:12:13 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:12:15 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:18:48 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:18:48 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:18:54 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:18:55 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:19:08 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:19:08 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:19:16 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:19:16 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:19:21 - [35mhttp[39m : [35mGET /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:19:37 - [35mhttp[39m : [35mGET /api/movie/ 200 158 - 64.485 ms[39m
+[35m[39m
+2023-01-19 22:19:43 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 - - - - ms[39m
+[35m[39m
+2023-01-19 22:19:49 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-19 22:20:08 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:20:08 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:20:11 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-19 22:21:10 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:21:10 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:21:13 - [32minfo[39m : [32mErro no sistema: Converting circular structure to JSON[39m
+[32m    --> starting at object with constructor 'MongoClient'[39m
+[32m    |     property 's' -> object with constructor 'Object'[39m
+[32m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[32m    --- property 'client' closes the circle[39m
+2023-01-19 22:21:15 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-19 22:21:25 - [32minfo[39m : [32mErro no sistema: Converting circular structure to JSON[39m
+[32m    --> starting at object with constructor 'MongoClient'[39m
+[32m    |     property 's' -> object with constructor 'Object'[39m
+[32m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[32m    --- property 'client' closes the circle[39m
+2023-01-19 22:21:27 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 - - - - ms[39m
+[35m[39m
+2023-01-19 22:21:32 - [35mhttp[39m : [35mGET /api/movie/ 200 158 - 66.181 ms[39m
+[35m[39m
+2023-01-19 22:21:47 - [32minfo[39m : [32mErro no sistema: Converting circular structure to JSON[39m
+[32m    --> starting at object with constructor 'MongoClient'[39m
+[32m    |     property 's' -> object with constructor 'Object'[39m
+[32m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[32m    --- property 'client' closes the circle[39m
+2023-01-19 22:21:49 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 - - - - ms[39m
+[35m[39m
+2023-01-19 22:24:04 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:24:04 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:24:31 - [32minfo[39m : [32mErro no sistema: Converting circular structure to JSON[39m
+[32m    --> starting at object with constructor 'MongoClient'[39m
+[32m    |     property 's' -> object with constructor 'Object'[39m
+[32m    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'[39m
+[32m    --- property 'client' closes the circle[39m
+2023-01-19 22:24:32 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 - - - - ms[39m
+[35m[39m
+2023-01-19 22:24:58 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:24:58 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:25:00 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:25:00 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:25:03 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 200 156 - 69.529 ms[39m
+[35m[39m
+2023-01-19 22:25:06 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add4 404 32 - 54.429 ms[39m
+[35m[39m
+2023-01-19 22:26:04 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:26:04 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:26:05 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add4 404 32 - 67.162 ms[39m
+[35m[39m
+2023-01-19 22:26:28 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:26:28 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:26:33 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:26:33 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:26:34 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add 404 32 - 3.357 ms[39m
+[35m[39m
+2023-01-19 22:26:59 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89c62dd53a3aded19195" (type string) at path "_id" for model "Movie"[39m
+2023-01-19 22:27:01 - [35mhttp[39m : [35mDELETE /api/movie/63c89c62dd53a3aded19195 - - - - ms[39m
+[35m[39m
+2023-01-19 22:27:14 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:27:14 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:27:34 - [32minfo[39m : [32mSucesso!![39m
+2023-01-19 22:27:34 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-19 22:27:35 - [35mhttp[39m : [35mDELETE /api/movie/63c89c62dd53a3aded19195 404 32 - 3.138 ms[39m
+[35m[39m
+2023-01-19 22:27:48 - [35mhttp[39m : [35mPOST /api/movie 200 204 - 91.197 ms[39m
+[35m[39m
+2023-01-19 22:27:56 - [35mhttp[39m : [35mPOST /api/movie 200 204 - 60.440 ms[39m
+[35m[39m
+2023-01-19 22:28:33 - [35mhttp[39m : [35mGET /api/movie 200 568 - 59.571 ms[39m
+[35m[39m
+2023-01-20 15:28:15 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:28:15 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:34:37 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:34:37 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:34:41 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "63c89dcc4e0058c40af7add" (type string) at path "_id" for model "Movie"[39m
+2023-01-20 15:34:45 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-20 15:35:29 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:35:29 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:37:22 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:37:22 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:37:24 - [32minfo[39m : [32mErro no sistema: Cannot read properties of undefined (reading 'content-type')[39m
+2023-01-20 15:37:27 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-20 15:37:51 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:37:51 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:37:55 - [32minfo[39m : [32mErro no sistema: Cannot read properties of undefined (reading 'content-type')[39m
+2023-01-20 15:37:56 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-20 15:38:08 - [32minfo[39m : [32mErro no sistema: Cannot read properties of undefined (reading 'content-type')[39m
+2023-01-20 15:38:10 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add - - - - ms[39m
+[35m[39m
+2023-01-20 15:38:17 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 200 156 - 77.689 ms[39m
+[35m[39m
+2023-01-20 15:41:24 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:41:24 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:42:20 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:42:20 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:42:26 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 - - - - ms[39m
+[35m[39m
+2023-01-20 15:42:33 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add 404 32 - 2.304 ms[39m
+[35m[39m
+2023-01-20 15:42:45 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:42:45 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:42:47 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 200 156 - 68.074 ms[39m
+[35m[39m
+2023-01-20 15:42:50 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add 404 32 - 0.726 ms[39m
+[35m[39m
+2023-01-20 15:43:13 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:43:13 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:43:43 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:43:43 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:45:18 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:45:18 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:45:22 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:45:22 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:45:27 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add 404 32 - 3.044 ms[39m
+[35m[39m
+2023-01-20 15:45:30 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add1 404 32 - 63.291 ms[39m
+[35m[39m
+2023-01-20 15:45:33 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add4 404 32 - 54.008 ms[39m
+[35m[39m
+2023-01-20 15:45:35 - [35mhttp[39m : [35mGET /api/movie/63c89dcc4e0058c40af7add3 200 156 - 57.539 ms[39m
+[35m[39m
+2023-01-20 15:45:59 - [35mhttp[39m : [35mGET /api/movie 200 568 - 56.386 ms[39m
+[35m[39m
+2023-01-20 15:46:28 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 15:46:28 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 15:48:28 - [35mhttp[39m : [35mPATCH /api/movie/63c89dcc4e0058c40af7add3 200 126 - 169.950 ms[39m
+[35m[39m
+2023-01-20 15:48:36 - [35mhttp[39m : [35mGET /api/movie 200 657 - 57.237 ms[39m
+[35m[39m
+2023-01-20 18:28:38 - [32minfo[39m : [32mSucesso!![39m
+2023-01-20 18:28:38 - [32minfo[39m : [32mApp rodando na porta 3000[39m
+2023-01-20 18:28:45 - [35mhttp[39m : [35mGET /api/movie 200 657 - 69.225 ms[39m
+[35m[39m
+2023-01-20 18:29:59 - [35mhttp[39m : [35mPATCH /api/movie/63c89dcc4e0058c40af7add3 200 126 - 147.193 ms[39m
+[35m[39m
